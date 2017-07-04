@@ -3,7 +3,7 @@
 }
 
 div.header {
-  background-image: url("C://cygwin64/broadway/resources/images/the-flatiron-building.png");
+  background: url("C://cygwin64/broadway/resources/images/the-flatiron-building.png");
   text-align: center;
 }
 
