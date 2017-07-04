@@ -1,0 +1,33 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+div.header {
+  background: url("C://cygwin64/broadway/resources/images/the-flatiron-building.png");
+  text-align: center;
+}
+
+div.header h1 {
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+div.header a {
+  color: white;
+  font-size: 18 px;
+}
+
+div.process h1 {
+  font-size: 32 px;
+  font-weight: bold;
+}
+
+div.process h2 {
+  font-size: 23 px;
+  font-weight: bold;
+}
+
+div.process p {
+  font-size: 14 px;
+}
